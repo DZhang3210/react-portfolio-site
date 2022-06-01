@@ -10,6 +10,10 @@ const Header = ({ handleWorkScroll, handleAboutScroll }) => {
         <Button onClick={() => window.open("mailto:davidzhang3210@gmail.com")}>
           Contact
         </Button>
+        <a href="https://spectacled-bite-b9c.notion.site/David-Zhang-ecfef9d575ca407a82bc08b8d72c5c54">
+          Resume
+        </a>
+
       </div>
     </div>
   );
