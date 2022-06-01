@@ -4,14 +4,14 @@ export default {
 
   //   Header Details ---------------------
   name: "David",
-  headerTaglineOne: "Yes 👋",
+  headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
     "I'm David Zhang - based in Guilford, CT ",
 
   socials: [
     { title: "Github", link: "https://github.com/DZhang3210" },
     { title: "LinkedIn", link: "https://www.linkedin.com/in/david-zhang-50b068210/" },
-    { title: "Email", link: "davidzhang3210@gmail.com" },
+    { title: "Email", link: "mailto:davidzhang3210@gmail.com" },
   ],
 
   // End Header Details -----------------------
