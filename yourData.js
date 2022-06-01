@@ -20,16 +20,16 @@ export default {
   projects: [
     {
       title: "Project One", //Project Title - Add Your Project Title Here
-      description: "Web Design",
+      description: "Astar Pathfinding",
       //Project Image - Add Your Project Image Here
-      imageSrc: "/images/Astar.png",
+      imageSrc: "images/Astar.png",
         //"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
-      description: "Web Development",
+      description: "Automated Sudoku Solver",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
@@ -115,7 +115,7 @@ export default {
 
   // About Secton --------------
   aboutpara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I've been passionate about coding ever since I was introduced to it since I was 8. There was always something mistifying but simultaneously beautiful about it."
   //   End About Section ---------------------
 };
 
