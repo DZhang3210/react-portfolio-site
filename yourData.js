@@ -4,7 +4,7 @@ export default {
 
   //   Header Details ---------------------
   name: "chetan",
-  headerTaglineOne: "HelHeylo 👋",
+  headerTaglineOne: "beats 👋",
   headerTaglineTwo:
     "I'm DAVID ZHANG - curious designer and devloper based in New Delhi, India. ",
 
