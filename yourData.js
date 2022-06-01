@@ -3,17 +3,15 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "David",
   headerTaglineOne: "Yes 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm David Zhang - based in Guilford, CT ",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
-    { title: "Twitter", link: "https://twitter.com/realchetanverma" },
-    { title: "Blog", link: "https://blog.chetanverma.com/" },
-    { title: "Email", link: "mailto:hello@chetanverma.com" },
+    { title: "Github", link: "https://github.com/DZhang3210" },
+    { title: "LinkedIn", link: "https://www.linkedin.com/in/david-zhang-50b068210/" },
+    { title: "Email", link: "davidzhang3210@gmail.com" },
   ],
 
   // End Header Details -----------------------
