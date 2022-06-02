@@ -55,7 +55,8 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
-    {
+
+    /*{
       title: "Project Five", //Project Title - Add Your Project Title Here
       description: "Development",
       //Project Image - Add Your Project Image Here
@@ -72,7 +73,7 @@ export default {
         "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
-    },
+    },*/
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
