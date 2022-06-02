@@ -25,32 +25,32 @@ export default {
       imageSrc: 
         "https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/DZhang3210/A-pathfiding.git",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
       description: "Automated Sudoku Solver",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/DZhang3210/Sudoku.git",
     },
     {
       title: "Project Three", //Project Title - Add Your Project Title Here
-      description: "Design",
+      description: "Chat App",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://www.designbombs.com/wp-content/uploads/2017/01/live-chat-apps-1280x720.jpg",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
     {
       title: "Project Four", //Project Title - Add Your Project Title Here
-      description: "Marketing",
+      description: "Payload Tracking",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://www.researchgate.net/profile/Yandong-Ji/publication/353902432/figure/fig3/AS:1056588882255872@1628921828329/Payload-velocity-tracking-results-of-straight-motion-The-policy-is-trained-with-payload.ppm",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     }
