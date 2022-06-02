@@ -1,5 +1,5 @@
 import React from "react";
-import Astar from "Astar.png"
+import Astar from "./Astar.png";
 
 const WorkCard = ({ img, name, description, onClick }) => {
   return (
