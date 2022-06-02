@@ -23,7 +23,7 @@ export default {
       title: "Project One", //Project Title - Add Your Project Title Here
       description: "Astar Pathfinding",
       //Project Image - Add Your Project Image Here
-      imageSrc: logo,
+      imageSrc: "Astar.png",
         //"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
