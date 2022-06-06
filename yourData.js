@@ -4,7 +4,7 @@ export default {
 
   //   Header Details ---------------------
   name: "David",
-  headerTaglineOne: "Hello 👋",
+  headerTaglineOne: "Hello 🐐",
   headerTaglineTwo:
     "I'm David Zhang - based in Guilford, CT ",
 
@@ -43,7 +43,7 @@ export default {
       imageSrc:
         "https://www.designbombs.com/wp-content/uploads/2017/01/live-chat-apps-1280x720.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
     {
       title: "Project Four", //Project Title - Add Your Project Title Here
@@ -52,7 +52,7 @@ export default {
       imageSrc:
         "https://www.researchgate.net/profile/Yandong-Ji/publication/353902432/figure/fig3/AS:1056588882255872@1628921828329/Payload-velocity-tracking-results-of-straight-motion-The-policy-is-trained-with-payload.ppm",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     }
 
     /*{
