@@ -6,7 +6,7 @@ export default {
   name: "David",
   headerTaglineOne: "Hello 🐐",
   headerTaglineTwo:
-    "I'm David Zhang - based in Guilford, CT ",
+    "I'm David Zhang - Coding Enthusiast",
 
   socials: [
     { title: "Github", link: "https://github.com/DZhang3210" },
@@ -38,12 +38,12 @@ export default {
     },
     {
       title: "Project Three", //Project Title - Add Your Project Title Here
-      description: "Chat App",
+      description: "Smart Mirror",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://www.designbombs.com/wp-content/uploads/2017/01/live-chat-apps-1280x720.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41jyLwzG+wL.jpg",
       //Project URL - Add Your Project Url Here
-      url: "",
+      url: "https://github.com/DZhang3210/SmartMirror.git",
     },
     {
       title: "Project Four", //Project Title - Add Your Project Title Here
@@ -116,7 +116,7 @@ export default {
 
   // About Secton --------------
   aboutpara:
-      "I've been passionate about coding ever since I was introduced to it since I was 8. There was always something mistifying but simultaneously beautiful about it."
+      "Coding, in essence, is the way for me to strip down the world into its base components and understand its structure. Between web development, game development, and the in-between, they're all great in their own unique ways. More than anything, I love a good challenge or riddle and anything which can do that I think is a job worth doing."
   //   End About Section ---------------------
 };
 
